@@ -1,30 +1,38 @@
 ﻿<div align="center">
 
-<!-- HEADER BANNER -->
+<!-- MODERN ANIMATED CYBER METEOR WAVE BANNER -->
 <a href="https://github.com/phamvantuyenuit2006-oss">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=Pham%20Van%20Tuyen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Fullstack%20Developer%20%7C%20AI%20Automation&descFontSize=18&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=250&section=header&text=Pham%20Van%20Tuyen&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E2%9A%A1%20DevOps%20Engineer%20%7C%20Fullstack%20Developer%20%7C%20AI%20Automation&descFontSize=19&descAlignY=62" width="100%" />
 </a>
 
 <br/>
 
-<!-- ENHANCED TYPING SVG -->
+<!-- FUTURISTIC GLOWING TYPING ANIMATION -->
 <a href="https://github.com/phamvantuyenuit2006-oss">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=38BDF8&multiline=false&background=0D111700&center=true&vCenter=true&width=650&height=50&lines=%E2%9A%A1+Architecting+Scalable+Cloud+%26+DevOps+Pipelines;%F0%9F%92%BB+Fullstack+Software+Engineer+(React%2C+Node%2C+.NET);%F0%9F%A4%96+Building+Intelligent+AI+Agentic+Workflows;%F0%9F%9A%80+Optimizing+High-Performance+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2400&pause=900&color=38BDF8&background=0D111700&center=true&vCenter=true&width=680&height=55&lines=%E2%9A%A1+Architecting+Scalable+Cloud+%26+DevOps+Pipelines;%F0%9F%92%BB+Fullstack+Software+Engineer+(React%2C+Node%2C+.NET);%F0%9F%A4%96+Building+Intelligent+AI+Agentic+Workflows;%F0%9F%9A%80+Optimizing+High-Performance+Distributed+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
+<!-- ANIMATED TECH GLOW ICONS BANNER -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,git,githubactions,ts,python,react,nextjs,dotnet,postgres" />
+</p>
+
+<!-- SOCIAL CONNECT BADGES WITH HOVER GRADIENTS -->
 <p align="center">
   <a href="https://facebook.com/tuyenmedia" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/phamtuyen170726uit/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://youtube.com/@tuyenphamdigital" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/phamvantuyenuit2006-oss" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -63,26 +71,26 @@
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack & Ecosystem
 
 <div align="left">
 
-#### 🌐 Languages & Core
+#### 🌐 Languages & Core Runtime
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java,cs,html,css" />
 </p>
 
-#### ⚡ Frameworks & Libraries
+#### ⚡ Frameworks & Web Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,tailwind,bootstrap" />
 </p>
 
-#### ☁️ DevOps, Cloud & Tools
+#### ☁️ Cloud, DevOps & Orchestration
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,aws,vscode,postman,figma" />
 </p>
 
-#### 🗄 Databases & Storage
+#### 🗄 Enterprise Databases & Storage
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </p>
@@ -119,7 +127,7 @@
   <a href="mailto:phamvantuyenuit2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<!-- FOOTER -->
+<!-- ANIMATED WAVING FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
 </div>
