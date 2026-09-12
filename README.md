@@ -12,17 +12,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="left">
-  <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="55px" alt="Starstruck" title="Starstruck" />
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="55px" alt="Pull Shark" title="Pull Shark" />
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="55px" alt="Quickdraw" title="Quickdraw" />
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbffec017.png" width="55px" alt="YOLO" title="YOLO" />
-</p>
-
----
-
 ### 🚀 About Me
 
 - 🔧 **DevOps Engineer** with experience in CI/CD, automation and infrastructure
