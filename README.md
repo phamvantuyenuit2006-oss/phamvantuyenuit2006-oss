@@ -49,7 +49,7 @@
     <td width="35%" valign="top">
       <table>
         <tr><td>📍 <b>Location:</b></td><td>Ho Chi Minh City, Vietnam</td></tr>
-        <tr><td>🎓 <b>Education:</b></td><td>University of Information Technology (UIT)</td></tr>
+        <tr><td>🎓 <b>Education:</b></td><td>Sai Gon University (SGU)</td></tr>
         <tr><td>💼 <b>Focus:</b></td><td>Cloud / DevOps & AI Systems</td></tr>
         <tr><td>⚡ <b>Mindset:</b></td><td>Continuous Learning & High Scalability</td></tr>
         <tr><td>📫 <b>Inquiries:</b></td><td>Open for Collaboration</td></tr>
