@@ -31,20 +31,32 @@
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 Executive Summary
 
-```yaml
-name: Pham Van Tuyen
-role: DevOps Engineer & Fullstack Developer
-interests: Cloud Architecture, AI Automation, CI/CD Optimization, High Performance Systems
-currently_learning: Kubernetes, Microservices Architecture, LLM Agentic Workflows
-philosophy: "Continuous improvement through clean code, automation, and continuous learning."
-```
-
-- 🔧 **DevOps & Infrastructure:** Experience in CI/CD pipeline optimization, container orchestration (Docker), and automated deployment workflows.
-- 💻 **Fullstack Engineering:** Building modern web applications with ReactJS, NodeJS, ASP.NET Core, Python, and SQL databases.
-- 🤖 **AI & Automation Systems:** Integrating LLMs, autonomous agents, Python scripting, and low-code/no-code workflows (n8n).
-- 🐧 **Systems Mindset:** Strong Linux background, performance tuning, and high availability systems design.
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p>
+        I am a forward-thinking <b>DevOps Engineer & Fullstack Software Developer</b> with a profound passion for architecting resilient cloud infrastructure, automating mission-critical workflows, and engineering high-performance distributed systems.
+      </p>
+      <p>
+        My core expertise spans designing robust <b>CI/CD pipelines</b>, orchestrating containerized microservices (<b>Docker & Kubernetes</b>), building full-cycle web platforms (<b>React, Node.js, .NET Core</b>), and integrating state-of-the-art <b>AI Automation Agentic Workflows</b> into enterprise operations.
+      </p>
+      <p>
+        💡 <i>"Committed to clean code craftsmanship, infrastructure-as-code principles, and relentlessly optimizing software delivery lifecycles."</i>
+      </p>
+    </td>
+    <td width="35%" valign="top">
+      <table>
+        <tr><td>📍 <b>Location:</b></td><td>Ho Chi Minh City, Vietnam</td></tr>
+        <tr><td>🎓 <b>Education:</b></td><td>University of Information Technology (UIT)</td></tr>
+        <tr><td>💼 <b>Focus:</b></td><td>Cloud / DevOps & AI Systems</td></tr>
+        <tr><td>⚡ <b>Mindset:</b></td><td>Continuous Learning & High Scalability</td></tr>
+        <tr><td>📫 <b>Inquiries:</b></td><td>Open for Collaboration</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -78,15 +90,15 @@ philosophy: "Continuous improvement through clean code, automation, and continuo
 
 ### 🤖 AI & Workflow Automation
 
-- 💬 **AI Models & Integrations:** Building intelligent solutions with OpenAI APIs, Google Gemini, and Anthropic Claude.
-- 🐍 **Scripting & Bots:** Automated web scrapers, task orchestrators, and Telegram/Discord bots in Python.
-- 🗂 **Workflow Pipelines:** Advanced automation pipelines with **n8n**, Webhooks, and API middleware.
+- 💬 **AI Models & Integrations:** Architecting agentic pipelines with OpenAI APIs, Google Gemini, and Anthropic Claude.
+- 🐍 **Scripting & Bot Systems:** Automated data scrapers, task orchestrators, and enterprise automation bots in Python.
+- 🗂 **No-Code / Low-Code Orchestration:** End-to-end webhook workflows and event-driven automation powered by **n8n**.
 
 ---
 
 ### 🎯 Current Goals & Focus
 
-- ⚙️ **CI/CD Optimization:** Mastering GitHub Actions matrix builds, Docker caching, and automated testing suites.
+- ⚙️ **CI/CD Optimization:** Mastering GitHub Actions matrix builds, Docker layer caching, and automated testing suites.
 - ☁️ **Cloud Native Architecture:** Deep diving into Kubernetes cluster management and Microservices monitoring.
 - 🤖 **Agentic AI:** Developing multi-agent systems and enterprise-grade workflow automations.
 
