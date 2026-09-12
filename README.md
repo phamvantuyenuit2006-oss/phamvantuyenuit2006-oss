@@ -84,30 +84,6 @@ philosophy: "Continuous improvement through clean code, automation, and continuo
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phamvantuyenuit2006-oss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=bb9af7&text_color=cbd5e1" height="175px" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamvantuyenuit2006-oss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=cbd5e1" height="175px" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamvantuyenuit2006-oss&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=f43f5e&currStreakLabel=38bdf8" alt="GitHub Streak" />
-</div>
-
----
-
-### 🐍 Contribution Snake Eater (Full Green Grid)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/phamvantuyenuit2006-oss/phamvantuyenuit2006-oss/main/snake-full-green.svg" width="100%" alt="Full Green Contribution Snake" />
-</div>
-
----
-
 ### 🎯 Current Goals & Focus
 
 - ⚙️ **CI/CD Optimization:** Mastering GitHub Actions matrix builds, Docker caching, and automated testing suites.
