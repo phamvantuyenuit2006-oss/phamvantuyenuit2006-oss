@@ -100,14 +100,10 @@ philosophy: "Continuous improvement through clean code, automation, and continuo
 
 ---
 
-### 🐍 Contribution Snake Eater
+### 🐍 Contribution Snake Eater (Full Green Grid)
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phamvantuyenuit2006-oss/phamvantuyenuit2006-oss/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phamvantuyenuit2006-oss/phamvantuyenuit2006-oss/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/phamvantuyenuit2006-oss/phamvantuyenuit2006-oss/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/phamvantuyenuit2006-oss/phamvantuyenuit2006-oss/main/snake-full-green.svg" width="100%" alt="Full Green Contribution Snake" />
 </div>
 
 ---
