@@ -1,13 +1,16 @@
 ﻿<div align="center">
 
-<!-- HEADER BANNER & TYPING ANIMATION -->
+<!-- HEADER BANNER -->
 <a href="https://github.com/phamvantuyenuit2006-oss">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=Pham%20Van%20Tuyen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Fullstack%20Developer%20%7C%20AI%20Automation&descFontSize=18&descAlignY=62" width="100%" />
 </a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Scalable+Cloud+%26+DevOps+Pipelines;Fullstack+Software+Engineer+(React%2C+Node%2C+.NET%2C+Python);Designing+Intelligent+AI+Workflows+%26+Automation;Passionate+about+Open-Source+and+System+Optimization)](https://git.io/typing-svg)
+<!-- ENHANCED TYPING SVG -->
+<a href="https://github.com/phamvantuyenuit2006-oss">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=38BDF8&multiline=false&background=0D111700&center=true&vCenter=true&width=650&height=50&lines=%E2%9A%A1+Architecting+Scalable+Cloud+%26+DevOps+Pipelines;%F0%9F%92%BB+Fullstack+Software+Engineer+(React%2C+Node%2C+.NET);%F0%9F%A4%96+Building+Intelligent+AI+Agentic+Workflows;%F0%9F%9A%80+Optimizing+High-Performance+Distributed+Systems" alt="Typing SVG" />
+</a>
 
 <br/>
 
